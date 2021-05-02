@@ -80,9 +80,8 @@ header {
 }
 
 .step-box {
-  max-width: 100%;
   width: 90%;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -97,6 +96,7 @@ footer {
 
 .step-box:last-child {
   margin-right: auto;
+  margin-bottom: 50px;
 }
 
 
