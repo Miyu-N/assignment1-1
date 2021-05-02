@@ -76,16 +76,20 @@ header {
   display: block;
   width: 100%;
   margin: 0 auto;
-
-
   
 }
 
 .step-box {
+  max-width: 100%;
+  width: 90%;
   margin-bottom: 30px;
   margin-right: auto;
   margin-left: auto;
 }
+
+
+
+
 
 footer {
   width: 100%;
